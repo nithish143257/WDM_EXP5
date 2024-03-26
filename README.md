@@ -111,7 +111,8 @@ if __name__ == "__main__":
 ```
 
 ### Output:
-![image](https://github.com/21005688/WDM_EXP5/assets/94747031/6f7845a0-a926-4361-b3fb-0354bc6e4ce8)
+
+![image](https://github.com/nithish143257/WDM_EXP5/assets/113762839/3ce394e2-f48d-4c73-a46e-e61ba89a37dd)
 
 
 ### Result:
